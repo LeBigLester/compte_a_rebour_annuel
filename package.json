@@ -1,0 +1,11 @@
+{
+  "name": "compte_rebour",
+  "version": "1.0.0",
+  "description": "application web réalisant un compte à rebours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lester",
+  "license": "ISC"
+}
